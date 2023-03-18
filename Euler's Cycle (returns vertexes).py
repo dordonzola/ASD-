@@ -1,6 +1,6 @@
-#O(V+E) - Złożoność czasowa
-#Zamienia l;isty sąsiedztwa na postać macierzową
-#JEŚLI JEST cykl eulera, działa dobrze, jeśli nie ma zwróci coś bez sensu
+#O(V+E) -Time complexity
+#Changes Adjacency List to adjacency matrix
+#When there is Euler's cycle it works well, if there's no it doesn't work (!)
 
 
 def change(G):
