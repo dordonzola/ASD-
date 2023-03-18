@@ -1,4 +1,4 @@
-# O(h) - h-wysokość drzewa
+# O(h) - h-tree's height
 
 class BST_Node:
     def __init__(self,key=None):
@@ -108,38 +108,6 @@ else:
 
 
 
-# if find(d,1):
-#     print(find(d,1).key)
-# else:
-#     print(None)
-# if find(d,4):
-#     print(find(d,4).key)
-# else:
-#     print(None)
-# if find(d,9):
-#     print(find(d,9).key)
-# else:
-#     print(None)
-# if find(d,18):
-#     print(find(d,18).key)
-# else:
-#     print(None)
-# if succ(find(d,8)):
-#     print(succ(find(d,8)).key)
-# else:
-#     print(None)
-# if pred(find(d,8)):
-#     print(pred(find(d,8)).key)
-# else:
-#     print(None)
-# if succ(find(d,9)):
-#     print(succ(find(d,9)).key)
-# else:
-#     print(None)
-# if pred(find(d,9)):
-#     print(pred(find(d,9)).key)
-# else:
-#     print(None)
 
 
 
