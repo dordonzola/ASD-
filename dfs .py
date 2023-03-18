@@ -1,8 +1,8 @@
-#listy sąsiedztwa
-#zwraca None
+#adjacency lists
+
 
 # O(|V|+|E|)
-#O(h) h-długość najdłuższej prostej ścieżki -pamięciowa
+#O(h) h-length of the longest path
 
 def dfs(G):
     visited = [False for i in range(len(G))]
