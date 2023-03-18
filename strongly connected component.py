@@ -8,7 +8,7 @@ def reverse(G):
 
     return new_G
 
-#funkcja zwraca indexy pojedynczych elementów ze spójnych składowych bo mi się już nie chciało
+#returns indexes of elements
 #O(V+E)
 
 def dfs (G,order):
