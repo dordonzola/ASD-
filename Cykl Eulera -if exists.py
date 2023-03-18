@@ -1,4 +1,4 @@
-#CZY ISTNIEJE cykl Eulera (jeśli jest ścieżka, zwraca path
+# returns path if it exists
 
 def euler (graph):
     visited=[False]*len(graph)
