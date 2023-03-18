@@ -1,0 +1,4 @@
+Ford-Fulkerson O((V+E)*f)
+f - wartość przepływu
+
+Edmonds-Karp O(VE^2)
